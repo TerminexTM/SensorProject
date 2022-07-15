@@ -1,4 +1,4 @@
-module SensorProject
+module github.com/chuckkainrath/SensorProject
 
 go 1.18
 
@@ -7,9 +7,9 @@ require (
 	github.com/gorilla/mux v1.8.0
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/shopspring/decimal v1.3.1
-	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
-	gorm.io/driver/postgres v1.3.7
-	gorm.io/gorm v1.23.6
+	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d
+	gorm.io/driver/postgres v1.3.8
+	gorm.io/gorm v1.23.8
 )
 
 require (
