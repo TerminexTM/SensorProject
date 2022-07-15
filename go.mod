@@ -1,4 +1,4 @@
-module github.com/chuckkainrath/SensorProject
+module SensorProject
 
 go 1.18
 
